@@ -26,4 +26,8 @@ public class OtraClase {
     public void metodo(){
         System.out.println("algo");
     }
+    
+    public void nuevoMetodo(){
+        
+    }
 }
