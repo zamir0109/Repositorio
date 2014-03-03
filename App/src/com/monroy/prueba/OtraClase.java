@@ -28,6 +28,8 @@ public class OtraClase {
     }
     
     public void nuevoMetodo(){
-        
+        String i = "Esto es un cambio desde la web";
     }
+    
+    
 }
