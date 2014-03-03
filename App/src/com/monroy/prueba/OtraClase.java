@@ -9,9 +9,17 @@ package com.monroy.prueba;
  * @author Zamir
  */
 public class OtraClase {
-    
-    public OtraClase(){
-        
+
+    private String variable;
+
+    public OtraClase() {
     }
-    
+
+    public String getVariable() {
+        return variable;
+    }
+
+    public void setVariable(String variable) {
+        this.variable = variable;
+    }
 }
