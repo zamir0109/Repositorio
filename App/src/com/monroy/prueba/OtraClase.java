@@ -22,4 +22,8 @@ public class OtraClase {
     public void setVariable(String variable) {
         this.variable = variable;
     }
+    
+    public void metodo(){
+        System.out.println("algo");
+    }
 }
