@@ -20,7 +20,7 @@ public class Clase {
         this.algo = algo;
     }
     
-    public Clase(){
-        
+    public Clase(int algo){
+        this.algo = algo;
     }
 }
