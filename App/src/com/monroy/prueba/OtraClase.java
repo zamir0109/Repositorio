@@ -31,5 +31,9 @@ public class OtraClase {
         String i = "Esto es un cambio desde la web";
     }
     
+     public void nuevoMetodo2(){
+        String i = "Esto es un cambio desde la web con zamir0109";
+    }
+    
     
 }
